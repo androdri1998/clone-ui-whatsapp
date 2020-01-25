@@ -1,0 +1,8 @@
+.DS_Store
+.atom/
+.vscode/
+.packages
+.pub/
+build/
+ios/.generated/
+.flutter-plugins
